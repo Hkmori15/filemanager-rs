@@ -2,6 +2,6 @@
 name = "filemanager-rs"
 version = "0.1.0"
 edition = "2021"
-description = "Simple cli file manager written in Rust"
+description = "Simple cli file manager written in Rust without any external dependencies"
 
 [dependencies]
